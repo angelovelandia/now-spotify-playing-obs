@@ -1,6 +1,6 @@
 {
   "name": "now-spotify-playing-obs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detects the song you are listening to in Spotify and shows it in OBS.",
   "main": "app.js",
   "type": "module",
