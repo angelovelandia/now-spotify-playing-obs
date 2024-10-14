@@ -1,6 +1,6 @@
 # Spotify Live Detector
 
-![Spotify Live Detector](https://img.shields.io/badge/Deployer%20Lib-v1.0.1-blue.svg)
+![Spotify Live Detector](https://img.shields.io/badge/Deployer%20Lib-v1.0.2-blue.svg)
 
 Spotify Live Detector is a library to detect the song you are listening to in your spotify application on the computer and display it in OBS for your streams or your videos.
 
@@ -29,8 +29,7 @@ OBS_PASSWORD=
 NAME_GUI_TEXT_OBS=SpotifyNowPlaying
 TIME=5000
 ```
-
-Explicacion de variables:
+## Explanation of variables:
 
 - **OBS_HOST**: Your OBS WebSocket HOST.
 - **OBS_PORT**: The PORT of your OBS WebSocket.
