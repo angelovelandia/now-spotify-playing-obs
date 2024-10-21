@@ -1,6 +1,6 @@
 # Spotify Live Detector
 
-![Spotify Live Detector](https://img.shields.io/badge/Deployer%20Lib-v1.0.2-blue.svg)
+![Spotify Live Detector](https://img.shields.io/badge/Deployer%20Lib-v1.0.3-blue.svg)
 
 Spotify Live Detector is a library to detect the song you are listening to in your spotify application on the computer and display it in OBS for your streams or your videos.
 
